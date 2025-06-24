@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ### <summary><strong>Read My Works on Essays</strong></summary>
 <a href="https://restuaka.medium.com/" target="_blank">
-  <img align="left" alt="Medium" width="50px" src="https://simpleicons.now.sh/medium/000000" />
+  <img align="left" alt="Medium" width="50px" src="https://simpleicons.now.sh/medium/006A71" />
 </a>
