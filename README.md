@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![restuak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=restuak&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ### <summary><strong>Read My Works on Essays</strong></summary>
-<a href ="https://restuaka.medium.com/" target="_blank">
+<a href="https://restuaka.medium.com/" target="_blank">
   <img align="left" alt="Medium" width="50px" src="https://simpleicons.now.sh/medium/ffffff" />
 </a>
