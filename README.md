@@ -3,9 +3,8 @@ Hi, I’m a Geodetic & Geomatics Engineer (Geoinformatician). Lifelong Learner. 
 
 I have an interest in hobbies such as writing essays on music and social topics.
 
-- 🌱 I’m currently learning Full-Stack Developer
+- 🌱 I’m currently learning about Full-Stack Developer
 - 👯 I’m looking to collaborate on building a Website, Web-based Geographic Information System (GIS), Geodatabase, and Web-based Spatial Analyst
-
 
 ### <summary><strong>Tools</strong></summary>
 <p>
