@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave:, Are you, good?</strong></summary>
-Hi, I’m a Geodetic & Geomatics Engineer. Lifelong Learner. Now, I focus on my learning skills in Full-Stack Website Developer and or Web-based Geographic Information System (GIS) Developer. Simply, I'm Geo-Informaticians. Cheers 🧑🏽‍💻🌍🌻
+Hi, I’m a Geodetic & Geomatics Engineer. Lifelong Learner. Now, I focus on my learning skills in Full-Stack Website Developer and or Web-based Geographic Information System (GIS) Developer. Cheers 🧑🏽‍💻🌍🌻
 
 I have an interest in hobbies such as writing essays on music and social topics.
 
